@@ -1,4 +1,4 @@
-# google.py
+# Web_Scraping_Google_Search_project.py
 import bs4
 import requests
 import sys
