@@ -1,7 +1,7 @@
 # Web_Scraping_Google_Search_project
 ### This repo consist of a web scraping tutorial notebook and Web Scraping Google search project
 
-The project file is google.py
+The project file is Web_Scraping_Google_Search_project.py
 
 This is what the program does:<br>
 • Gets search keywords from the command line arguments.<br>
